@@ -1,5 +1,5 @@
 # Google Play Store Analytics
-<img src="https://raw.githubusercontent.com/melanih/FlaskUI-Dashboard/master/capstone.png">
+<img src="https://raw.githubusercontent.com/melanih/FlaskUI-Dashboard/master/full.png">
 
 
 ## Data Summary
